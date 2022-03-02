@@ -415,9 +415,15 @@ button {
 
 @media (max-width: 415px){
 
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        background-color: lightgoldenrodyellow;
+    }
 
     .header, .home-container, .about-outer-container, .skills-outer-container, .projects-container, .contact-container, .footer-container {
-        width: 390px;
+        width: 414px;
     }
 
     .header-name {
@@ -427,6 +433,7 @@ button {
     .home-container {
         display: flex;
         flex-direction: column-reverse;
+        margin-top: 30px;
     }
 
     .home-image-container {
@@ -475,15 +482,16 @@ button {
     .about-outer-container {
         display: flex;
         flex-direction: column-reverse;
-        height: 700px;
+        height: 800px;
         align-content: space-around;
         width: 400px;
+        margin-top: 30px;
     }
 
     .about-image{
         box-shadow: 5px 0.8rem 1rem rgb(0 0 0 / 70%);
-        height: 300px;
-        width: 380px;
+        height: 270px;
+        width: 350px;
         object-fit: cover;
     }
 
@@ -499,7 +507,10 @@ button {
 
     .skills-outer-container {
         padding-top: 100px;
-        height: 1140px;
+        height: 1145px;
+        display: flex;
+        flex-direction: column;
+        align-items: center
     }
 
     .skills-container {
@@ -521,6 +532,64 @@ button {
         border: 2px solid navy;
         padding: 10px;
         border-radius: 10px;
+    }
+
+    .projects-container {
+        padding-top: 100px;
+        height: 1000px;
+    }
+
+    .project-container {
+        width: 350px;
+        height: 120px;
+        border-radius: 5px;
+    }
+
+    .project-image {
+        object-fit: cover;
+        width: 50%;
+        height: 120px;
+    }
+
+    .project-inner-container h3 {
+        font-size: 10px;
+    }
+
+    .project-inner-container p {
+        font-size: 8px;
+    }
+
+    .project-links a {
+        height: 20px;
+        border-radius: 3px;
+        font-size: 7px;
+        width: 30%;
+    }
+
+    .contact-container {
+        width: 414px;
+        display: flex;
+        align-content: center;
+        height: 680px;
+        margin-top: 0px;
+    }
+
+    .contact-inner-container {
+        display: flex;
+        flex-direction: column-reverse;
+        width: 414px;
+        align-items: center;
+        height: 400px;
+    }
+
+    .contact-info-container {
+        width: 390px;
+        margin-left: 0px ;
+
+    }
+
+    .contact-form {
+        width: 390px;
     }
 
 
