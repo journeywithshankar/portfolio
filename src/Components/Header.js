@@ -2,7 +2,12 @@ export function Header() {
     return (
         <header className="header">
             <p className="header-name">Shankar</p>
-            <nav>
+            <a href="/" class="toggle-button">
+                <span className="toggle-button-bar"></span>
+                <span className="toggle-button-bar"></span>
+                <span className="toggle-button-bar"></span>
+            </a>
+            <nav className="header-nav">
                 <ul className="header-nav-links">
                     <li><a href="#home">Home</a></li>
                     <li><a href="#about">About</a></li>
