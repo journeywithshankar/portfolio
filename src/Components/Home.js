@@ -6,7 +6,7 @@ export function Home() {
                 <div className="home-text-container">
                     <div className="home-text">
                         <h1>Hey, I am a <span>Full Stack Developer</span></h1>
-                        <p>Hi, I am Shankar, a Web developer from Chennai. I help brands turn their ideas into high quality websites.</p>
+                        <p>Hi, I am Shankar from Chennai. I help brands turn their ideas into high quality websites.</p>
                         <div className="home-links-container">
                             <a target="_blank" rel="noreferrer" href="https://github.com/Shankarprince" className="home-links">Github</a>
                             <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/shankarprince" className="home-links">LinkedIn</a>
@@ -16,7 +16,7 @@ export function Home() {
                     </div>
                 </div>
                 <div className="home-image-container">
-                    <img className="home-image" src={require("../Images/Photo.jpg")} alt="mypic"></img>
+                    <img className="home-image" src={require("../Images/photo1.jpg")} alt="mypic"></img>
                 </div>
             </div>
     );

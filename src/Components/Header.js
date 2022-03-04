@@ -2,7 +2,7 @@ export function Header() {
     return (
         <header className="header">
             <p className="header-name">Shankar</p>
-            <a href="/" class="toggle-button">
+            <a href="/" className="toggle-button">
                 <span className="toggle-button-bar"></span>
                 <span className="toggle-button-bar"></span>
                 <span className="toggle-button-bar"></span>
