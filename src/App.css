@@ -413,7 +413,6 @@ button {
     padding-top: 10px;
 }
 
-
 @media (max-width: 500px){
 
     * {
@@ -462,6 +461,7 @@ button {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
+        background-color: navy;
     }
 
     .toggle-button-bar {
