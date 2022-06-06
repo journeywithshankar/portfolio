@@ -30,7 +30,7 @@ export function Contact() {
                     </div>
                     <div className="contact-content">
                         <label htmlFor="" className="contact-label">Message</label>
-                        <input name="" id="" cols="0" rows="7" className="contact-input"></input>
+                        <input name="" id="" className="contact-input"></input>
                     </div>
                     <a href="mailto:shankarsowmiya07@gmail.com?subject = Feedback&body = Message" className="contact-form-button">Send
                     </a>
