@@ -11,7 +11,7 @@ export function Contact() {
 
                     <div className="contact__information">
                         <h3 className="contact-title">Email</h3>
-                        <span className="contact-subtitle">shankarsowmiya07@gmail.com</span>
+                        <span className="contact-subtitle">marineshankar@gmail.com</span>
                     </div>
 
                     <div className="contact__information">
