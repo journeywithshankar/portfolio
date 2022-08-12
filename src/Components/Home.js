@@ -10,7 +10,7 @@ export function Home() {
                         <div className="home-links-container">
                             <a target="_blank" rel="noreferrer" href="https://github.com/Shankarprince" className="home-links">Github</a>
                             <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/shankarprince" className="home-links">LinkedIn</a>
-                            <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1SvqBwH9IIrFA1FEZAvZjVvMxpi7hORbx/view?usp=sharing" className="home-links">Resume</a>
+                            <a target="_blank" rel="noreferrer" href="https://1drv.ms/b/s!Ar__fgdOQHy3aUHZSt3OXRuzSfg" className="home-links">Resume</a>
                         </div>
 
                     </div>
