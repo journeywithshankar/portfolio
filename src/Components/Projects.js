@@ -19,7 +19,7 @@ export function Projects() {
                     <p>Smartest Online Petty Cash Manager for Commercial and Personal Use.</p>
                     <p>HTML, CSS, JavaScript, React, NodeJS, ExpressJS, MongoDB</p>
                     <div className="project-links">
-                        <a target="_blank" rel="noreferrer" href="https://petty-cash-manager.netlify.app/">Live</a>
+                        <a target="_blank" rel="noreferrer" href="https://expenselogs.netlify.app/">Live</a>
                         <a target="_blank" rel="noreferrer" href="https://github.com/Shankarprince/petty-cash-manager-client">Client Code</a>
                         <a target="_blank" rel="noreferrer" href="https://github.com/Shankarprince/petty-cash-manager-server">Server Code</a>
                     </div>
