@@ -6,17 +6,17 @@ export function Contact() {
                 <div className="contact-info-container">
                     <div className="contact-information">
                         <h3 className="contact-title">Call me</h3>
-                        <span className="contact-subtitle">+91 90806 79661</span>
+                        <span className="contact-subtitle">+91 9677491369</span>
                     </div>
 
                     <div className="contact__information">
                         <h3 className="contact-title">Email</h3>
-                        <span className="contact-subtitle">marineshankar@gmail.com</span>
+                        <span className="contact-subtitle">journeywithshankar@gmail.com</span>
                     </div>
 
                     <div className="contact__information">
                         <h3 className="contact-title">Location</h3>
-                        <span className="contact-subtitle">Chennai-600 093,Tamil Nadu,India</span>
+                        <span className="contact-subtitle">Chennai, Tamil Nadu, India</span>
                     </div>
                 </div>
                 <form action="" className="contact-form">
