@@ -8,9 +8,9 @@ export function Home() {
                         <h1>Hey, I am a <span>Full Stack Developer</span></h1>
                         <p>This is Shankar. I help brands turn their ideas into high quality websites.</p>
                         <div className="home-links-container">
-                            <a target="_blank" rel="noreferrer" href="https://github.com/Shankarprince" className="home-links">Github</a>
-                            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/shankarprince" className="home-links">LinkedIn</a>
-                            <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1jgW4Qca-ezdG-i0acCBzGkNR1cFY_VJO/view?usp=sharing" className="home-links">Resume</a>
+                            <a target="_blank" rel="noreferrer" href="https://github.com/journeywithshankar" className="home-links">Github</a>
+                            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/journeywithshankar" className="home-links">LinkedIn</a>
+                            <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/19ioaDS8TfyPDfdO57VcUDDlIj_kRvL0v/view?usp=sharing" className="home-links">Resume</a>
                         </div>
 
                     </div>
